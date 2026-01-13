@@ -23,7 +23,7 @@ Ce script Python vous permet de :
 
 ## 📹 Tutoriel Vidéo
 
-**[Voir la vidéo sur YouTube]** _(Ajoutez votre lien)_
+**[Voir la vidéo sur YouTube]** (https://www.youtube.com/watch?v=ThSFoa3DYQM)
 
 ---
 
